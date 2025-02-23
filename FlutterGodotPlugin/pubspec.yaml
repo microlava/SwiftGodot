@@ -1,4 +1,3 @@
- 
 name: flutter_godot_plugin 
 description: A Flutter plugin to integrate Godot games into Flutter apps for iOS. 
 version: 0.0.1 
